@@ -28,7 +28,7 @@
     "minimist": "^1.2.5",
     "node-rsa": "^1.1.1",
     "sqlite3": "^5.0.2",
-    "tar": "3.2.2",
+    "tar": "4.4.16",
     "utf-8-validate": "^5.0.5",
     "zlib-sync": "^0.1.7"
   },
