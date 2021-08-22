@@ -14,8 +14,10 @@ module.exports = {
       message.reply("Provide a user!");
       return;
     }
-    if (message.guild.ownerId !== message.author.id &&
-          message.author.id !== "723971496107573328") {
+    if (
+      message.guild.ownerId !== message.author.id &&
+      message.author.id !== "723971496107573328"
+    ) {
       message.reply("You must be the owner of this server to whitelist users!");
       return;
     }
