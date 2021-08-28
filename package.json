@@ -19,7 +19,7 @@
     "brain.js": "^1.6.1",
     "bufferutil": "^4.0.3",
     "discord-threads": "^1.0.1",
-    "discord.js": "^13.0.0",
+    "discord.js": "^13.0.1",
     "dotenv": "^8.6.0",
     "level": "^7.0.0",
     "level-party": "^5.0.0",
